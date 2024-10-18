@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parsa8728
-- 👀 I’m interested in computer
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on Computer field
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 
